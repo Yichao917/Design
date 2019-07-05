@@ -2176,7 +2176,7 @@ hr {
 /* Animations for Skills Progress Bar */
 
 .bar-fill-developer {
-    width: 90%;
+    width: 95%;
     background-color: #101010;
     animation: bar-fill-developer 2s ease-out;
     -moz-animation: bar-fill-developer 2s ease-out;
@@ -2188,7 +2188,7 @@ hr {
         width: 0px;
     }
     100% {
-        width: 90%;
+        width: 95%;
     }
 }
 
@@ -2197,7 +2197,7 @@ hr {
         width: 0px;
     }
     100% {
-        width: 90%;
+        width: 95%;
     }
 }
 
@@ -2206,12 +2206,12 @@ hr {
         width: 0px;
     }
     100% {
-        width: 90%;
+        width: 95%;
     }
 }
 
 .bar-fill-photoshop {
-    width: 80%;
+    width: 90%;
     background-color: #101010;
     animation: bar-fill-photoshop 2s ease-out;
     -moz-animation: bar-fill-photoshop 2s ease-out;
@@ -2223,7 +2223,7 @@ hr {
         width: 0px;
     }
     100% {
-        width: 80%;
+        width: 90%;
     }
 }
 
@@ -2232,7 +2232,7 @@ hr {
         width: 0px;
     }
     100% {
-        width: 80%;
+        width: 90%;
     }
 }
 
@@ -2241,12 +2241,12 @@ hr {
         width: 0px;
     }
     100% {
-        width: 80%;
+        width: 90%;
     }
 }
 
 .bar-fill-webdesign {
-    width: 95%;
+    width: 80%;
     background-color: #101010;
     animation: bar-fill-webdesign 2s ease-out;
     -moz-animation: bar-fill-webdesign 2s ease-out;
@@ -2258,7 +2258,7 @@ hr {
         width: 0px;
     }
     100% {
-        width: 95%;
+        width: 80%;
     }
 }
 
@@ -2267,7 +2267,7 @@ hr {
         width: 0px;
     }
     100% {
-        width: 95%;
+        width: 80%;
     }
 }
 
@@ -2276,12 +2276,12 @@ hr {
         width: 0px;
     }
     100% {
-        width: 95%;
+        width: 80%;
     }
 }
 
 .bar-fill-socialmedia {
-    width: 85%;
+    width: 95%;
     background-color: #101010;
     animation: bar-fill-socialmedia 2s ease-out;
     -moz-animation: bar-fill-socialmedia 2s ease-out;
@@ -2293,7 +2293,7 @@ hr {
         width: 0px;
     }
     100% {
-        width: 85%;
+        width: 95%;
     }
 }
 
@@ -2302,7 +2302,7 @@ hr {
         width: 0px;
     }
     100% {
-        width: 85%;
+        width: 95%;
     }
 }
 
@@ -2311,6 +2311,6 @@ hr {
         width: 0px;
     }
     100% {
-        width: 85%;
+        width: 95%;
     }
 }
