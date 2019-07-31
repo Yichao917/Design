@@ -91,7 +91,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #101010;
+    color:#EDD593;
     outline: none;
     text-decoration: none !important;
 }
@@ -2312,5 +2312,39 @@ hr {
     }
     100% {
         width: 95%;
+    }
+}
+.bar-fill-c4d {
+    width: 50%;
+    background-color: #101010;
+    animation: bar-fill-socialmedia 2s ease-out;
+    -moz-animation: bar-fill-socialmedia 2s ease-out;
+    -webkit-animation: bar-fill-socialmedia 2s ease-out;
+}
+
+@keyframes bar-fill-socialmedia {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 50%;
+    }
+}
+
+@-moz-keyframes bar-fill-socialmedia {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 50%;
+    }
+}
+
+@-webkit-keyframes bar-fill-socialmedia {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 50%;
     }
 }
