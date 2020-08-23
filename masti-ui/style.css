@@ -805,3 +805,8 @@ margin:0;
 }
 #scrollUp:hover{background:#3e3e3e;}
 
+.img-fluid{
+    display: block;
+    margin: 0 auto;
+}
+

@@ -37,6 +37,7 @@
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-style: normal;
+    background: #040404;
 }
 .img {
 	max-width: 100%;
@@ -1215,6 +1216,10 @@ p.form-message.error {
 .back-to-top:hover{
     background-color: #333;
     color: #fff;
+}
+.img-fluid{
+    display: block;
+    margin: 0 auto;
 }
 
 
